@@ -1,0 +1,23 @@
+---
+componentName:  condres
+
+strings:
+    productName:         Condres OS Gnu/Linux
+    shortProductName:    Condres OS
+    version:             19.03
+    shortVersion:        19.03
+    versionedName:       Condres OS Gnu/Linux 19.03 
+    shortVersionedName:  Condres OS 19.03
+    bootloaderEntryName: Condres OS
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "squid.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#273272"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"
